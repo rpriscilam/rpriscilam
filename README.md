@@ -2,8 +2,7 @@
 
 <div align="topcenter">
   <a href="https://github.com/rpriscilam">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpriscilam&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rpriscilam&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 
 
  <div> 
